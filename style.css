@@ -1,0 +1,29 @@
+/*body{
+    background-color;
+}*/
+div{
+    height:500px;
+    width:600px;
+    background-color:bisque;
+    margin-left:30%;
+    margin-top: 150px;
+}
+
+.twilight{
+    border:solid white;
+    border-width:5px;
+    height:250px;
+    width:500px;
+    margin-top :45px;
+    margin-left:4px;
+    margin-bottom: 10px;
+}
+.poster {
+    color:black;
+    text-align:center;
+    line-height:1em;
+    font-family: "PT Serif", serif;
+  font-optical-sizing: auto;
+  font: weight 2px;
+  font-style:italic;
+  }
